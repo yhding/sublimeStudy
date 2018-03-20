@@ -1,5 +1,5 @@
 ## sublime高级教程
-文章引自：[这里](referfrom)
+文章引自：[这里][referfrom]
 
 ## 常用快捷键
 -------------------
@@ -85,7 +85,7 @@ ul>li*5<tab>
 p10<tab>
 m0-auto<tab>
 ```
-更多骚操作在[这里](completions-tab).
+更多骚操作在[这里][completions-tab].
 
 ## 自定义代码片段（snippet）
 -------------------
@@ -114,13 +114,13 @@ m0-auto<tab>
 ## 自制补全
 -----------------
 
-参考[这里](completions)
+参考[这里][completions]
 
 文件后缀名是.sublime-completions
 
 ## 批处理任务
 -----------------
-参考[这里](build)
+参考[这里][build]
 
 文件后缀名是.sublime-build
 
