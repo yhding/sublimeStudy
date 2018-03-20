@@ -126,7 +126,7 @@ m0-auto<tab>
 
 
 
-------------------------------------------
+--------------------------------
 [build]:http://sublime-text-unofficial-documentation.readthedocs.io/en/latest/reference/build_systems.html '批处理任务'
 [completions]:http://sublimecodeintel.github.io/SublimeCodeIntel/ '自制补全'
 [completions-tab]:http://docs.emmet.io/actions/ '丰富的 tab 补齐功能'
