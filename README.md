@@ -1,5 +1,5 @@
 ## sublime高级教程
-文章引自：[这里](referfrom 'peter的sublime高级教程')
+文章引自：[这里](referfrom)
 
 ## 常用快捷键
 -------------------
@@ -85,7 +85,7 @@ ul>li*5<tab>
 p10<tab>
 m0-auto<tab>
 ```
-更多骚操作在[这里](completions-tab '丰富的 tab 补齐功能').
+更多骚操作在[这里](completions-tab).
 
 ## 自定义代码片段（snippet）
 -------------------
@@ -127,7 +127,7 @@ m0-auto<tab>
 
 
 ------------------------------------------
-[build]:http://sublime-text-unofficial-documentation.readthedocs.io/en/latest/reference/build_systems.html
-[completions]:http://sublimecodeintel.github.io/SublimeCodeIntel/
-[completions-tab]:http://docs.emmet.io/actions/
-[referfrom]:http://happypeter.github.io/happysublime/
+[build]:http://sublime-text-unofficial-documentation.readthedocs.io/en/latest/reference/build_systems.html '批处理任务'
+[completions]:http://sublimecodeintel.github.io/SublimeCodeIntel/ '自制补全'
+[completions-tab]:http://docs.emmet.io/actions/ '丰富的 tab 补齐功能'
+[referfrom]:http://happypeter.github.io/happysublime/  'peter的sublime高级教程'
